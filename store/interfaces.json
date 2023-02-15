@@ -1,0 +1,6 @@
+{
+  "quick-order": {
+    "component": "QuickOrder",
+    "render": "client"
+  }
+}
