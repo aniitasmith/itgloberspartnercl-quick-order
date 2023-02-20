@@ -27,24 +27,28 @@ The quick-order component allows you to go to the checkout directly to complete 
     "title": "Container-Filter-navigator",
     "children": [
       "filter-navigator.v3",
-      "quick-order",
-      "department-search"
+      "quick-order"
     ]
   }
    ```
+|  Block name     | Description                                     |
+| -------------- | ----------------------------------------------- |
+| `quick-order` | ![https://img.shields.io/badge/-Mandatory-red](https://img.shields.io/badge/-Mandatory-red)  Top level block that must be declared in the store theme block to render a quick order block.   |
 
 ## Customization
 
+In order to apply CSS customizations in this and other blocks, follow the instructions given in the recipe on [Using CSS Handles for store customization](https://vtex.io/docs/recipes/style/using-css-handles-for-store-customization).
+
 |CSS HANDLES |
 | ----------- | 
-|`  contaner_quick-order `|
-|`  text_quick-order `|
-|`   form_quick-order `|
+|` contaner_quick-order `|
+|` text_quick-order `|
+|` form_quick-order `|
 |` container_input-form `|
-|`   input-form `|
-|`   button_submit `|
-|`  text_input-form `|
-|`    container_button-submit `|
+|` input-form `|
+|` button_submit `|
+|` text_input-form `|
+|` container_button-submit `|
 
 <!-- DOCS-IGNORE:start -->
 
