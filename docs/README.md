@@ -4,7 +4,7 @@
 
 <!-- DOCS-IGNORE:start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
@@ -16,7 +16,7 @@ The quick-order component allows you to go to the checkout directly to complete 
 
 1. Import the  Quick order's app to your theme's dependencies in the manifest.json, for example:
 ```json
-  dependencies: {
+  "dependencies": {
     "{vendor}.quick-order": "0.x"
   }
  ```
